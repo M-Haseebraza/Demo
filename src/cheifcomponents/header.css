@@ -1,0 +1,11 @@
+.cheif-header{
+    color: white;
+    padding: 15px 25px;
+    background-color: rgba(0, 0, 0, 0.39);
+    /* box-shadow: 0px 0px 10px 0px rgba(245, 245, 245, 0.082); */
+    position: sticky;
+}
+.cheif-header h1{
+    letter-spacing: 2px;
+    font-family: 'Redressed', cursive;
+};

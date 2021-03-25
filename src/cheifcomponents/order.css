@@ -1,0 +1,36 @@
+.order-card{
+    color: white;
+    width: 90vw;
+    margin-top: 20px !important;
+    margin: auto;
+    padding: 15px 25px;
+    /* background-color: rgba(100, 0, 0, 0.171); */
+    background-color: rgba(139,69,19, 0.705);
+    /* box-shadow: 0px 0px 10px 0px rgba(245, 245, 245, 0.082); */
+}
+.order-card h1{
+    text-align: center;
+}
+.table-info{
+    width: 100%;
+    height: fit-content;
+    display: flex;
+}
+.left{
+    width: 60%;
+    height: fit-content;
+}
+.right{
+    width: 40%;
+    height: fit-content;
+    display: flex;
+}
+.right .pizza-qty,.right .pizza-size{
+    width: 50%;
+    height: fit-content;
+}
+
+.left h3,.right h3{
+ background-color: rgba(0, 0, 0, 0.39);
+
+}
